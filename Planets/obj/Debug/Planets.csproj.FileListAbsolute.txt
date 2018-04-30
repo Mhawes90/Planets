@@ -1,0 +1,7 @@
+C:\Users\Chaos\source\repos\Planets\Planets\bin\Debug\Planets.exe.config
+C:\Users\Chaos\source\repos\Planets\Planets\bin\Debug\Planets.exe
+C:\Users\Chaos\source\repos\Planets\Planets\bin\Debug\Planets.pdb
+C:\Users\Chaos\source\repos\Planets\Planets\obj\Debug\Planets.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\source\repos\Planets\Planets\obj\Debug\Planets.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\source\repos\Planets\Planets\obj\Debug\Planets.exe
+C:\Users\Chaos\source\repos\Planets\Planets\obj\Debug\Planets.pdb

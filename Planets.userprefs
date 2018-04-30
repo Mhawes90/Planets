@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DE6048B4-F612-46AC-86BA-BE51B93CF506}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Planets/Program.cs">
+    <Files>
+      <File FileName="Planets/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Planets PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
